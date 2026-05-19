@@ -1,0 +1,2 @@
+{"taboos": ["花生", "海鲜"], "allergies": [], "notes": "示例：复制到 data/profile_seed.jsonl 后按需修改"}
+{"goals": "减脂", "preferred_cuisines": ["粤菜", "轻食"], "comfort_snacks_ok": true}
